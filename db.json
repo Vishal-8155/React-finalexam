@@ -1,0 +1,31 @@
+{
+  "recipes": [
+    {
+      "title": "klajsdlf",
+      "description": "fgg",
+      "category": "maggie",
+      "difficulty": "fdhgafgfdh",
+      "prepTime": "sfdhafdhsdfg",
+      "cookTime": "sdfhgdfhg",
+      "id": 1
+    },
+    {
+      "title": "dfgsfg",
+      "description": "sdfgafg",
+      "category": "pasta",
+      "difficulty": "afsgdhg",
+      "prepTime": "fsdhfgf",
+      "cookTime": "afsgasfg",
+      "id": 2
+    },
+    {
+      "title": "burger",
+      "description": "fsgsgsfgfgsf",
+      "category": "burger",
+      "difficulty": "gasfdgasf",
+      "prepTime": "gfasdhgafdh",
+      "cookTime": "fsdhgf",
+      "id": 3
+    }
+  ]
+}
